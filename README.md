@@ -1,0 +1,2 @@
+# mySpringcloudConfig
+springcloudconfig test
